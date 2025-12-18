@@ -1,0 +1,46 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS specific
+.DS_Store
+
+# Output files (Results)
+final_report.md
+result_report.txt
+research_output_raw.txt
+research_output.txt
+
+# Temporary scripts (optional)
+fetch_result.py
+
+# macOS metadata
+._*
+.DS_Store
+temp_ecec/
